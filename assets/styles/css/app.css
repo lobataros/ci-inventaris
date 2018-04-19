@@ -1,0 +1,19 @@
+#login
+{
+    background: #7fd3f9;
+}
+
+.bg-accent
+{
+    background: #7fd3f9 !important;
+    border: 0px !important;
+}
+
+#loginBox
+{
+    padding: 20px 15px;
+
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border-radius: 5px;
+}
